@@ -2,3 +2,4 @@ tensorflow-gpu
 scipy
 opencv-python
 tqdm
+pillow
